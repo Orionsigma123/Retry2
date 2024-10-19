@@ -120,7 +120,7 @@ function makeNewWorld() {
 updateChunks();
 
 // Position the camera to be just above the ground
-camera.position.set(25, 1.5, 25);
+camera.position.set(25, 2, 25);
 
 // Player controls
 const playerSpeed = 0.1;
